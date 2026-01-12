@@ -5,7 +5,6 @@ From one shared cultural ground, different users experience heritage in differen
 
 ## Repository Structure
 
-- `/backend` – FastAPI backend (API, database, personalization logic)
+- `/backend` – FastAPI backend
 - `/frontend` – Frontend application
 - `/ai` – AI prompts and enhancement logic
-- `/docs` – Shared documentation and API contracts
